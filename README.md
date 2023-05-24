@@ -1,7 +1,7 @@
 # An Analysis of Neighbourhood Distress complaints (311 Service Requests) in NYC 
 ## Predicting the Responding Government Agency
 
-**Author**: Avonlea Fisher -- Modified by Adarsh Kuthuru\
+**Author**: Avonlea Fisher -- Modified by Adarsh Kuthuru
 
 
 <img src="https://github.com/AvonleaFisher/Analyzing-NYC-311-Service-Requests/blob/main/Images/Dashboard_screenshot.png"></a>
