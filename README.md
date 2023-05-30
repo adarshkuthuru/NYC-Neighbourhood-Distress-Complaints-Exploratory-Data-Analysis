@@ -35,3 +35,21 @@ By leveraging various visualizations, such as plots and charts, the code present
 Furthermore, the code demonstrates a robust exploratory data analysis process, examining different dimensions of the dataset over time. Time series analysis, anomaly detection, and comparative analysis across boroughs highlight the code's comprehensive approach to uncovering patterns and trends within the data.
 
 Overall, the provided Python code exemplifies a professional and meticulous approach to data analysis, adhering to corporate standards of clarity, organization, and attention to detail.
+
+## Sample results of the analysis:
+
+![1](https://github.com/adarshkuthuru/NYC-Neighbourhood-Distress-Complaints-Exploratory-Data-Analysis/blob/main/images/img1.jpg)
+
+![2](https://github.com/adarshkuthuru/NYC-Neighbourhood-Distress-Complaints-Exploratory-Data-Analysis/blob/main/images/img5.1.2.jpg)
+
+![3](https://github.com/adarshkuthuru/NYC-Neighbourhood-Distress-Complaints-Exploratory-Data-Analysis/blob/main/images/img5.1.4.jpg)
+
+![4](https://github.com/adarshkuthuru/NYC-Neighbourhood-Distress-Complaints-Exploratory-Data-Analysis/blob/main/images/img5.2.6.jpg)
+
+![5](https://github.com/adarshkuthuru/NYC-Neighbourhood-Distress-Complaints-Exploratory-Data-Analysis/blob/main/images/img5.3.4.jpg)
+
+![6](https://github.com/adarshkuthuru/NYC-Neighbourhood-Distress-Complaints-Exploratory-Data-Analysis/blob/main/images/img6.1.5.jpg)
+
+![7](https://github.com/adarshkuthuru/NYC-Neighbourhood-Distress-Complaints-Exploratory-Data-Analysis/blob/main/images/img6.2.2.jpg)
+
+![8](https://github.com/adarshkuthuru/NYC-Neighbourhood-Distress-Complaints-Exploratory-Data-Analysis/blob/main/images/img6.2.3.jpg)
